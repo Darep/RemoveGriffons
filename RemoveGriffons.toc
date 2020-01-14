@@ -1,5 +1,6 @@
-## Interface: 60000
+## Interface: 11303
 ## Title: RemoveGriffons
+## Version 1.0
 ## Notes: Removes the griffons on each side of the default action bar
 ## Author: Darep
 
